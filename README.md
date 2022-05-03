@@ -1,2 +1,2 @@
 # Miprimerorepo
-Este es mi primer repositorio
+Enseñando a usar github Curso de Programacion Web
